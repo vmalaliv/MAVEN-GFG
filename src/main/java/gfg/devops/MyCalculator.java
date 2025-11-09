@@ -21,7 +21,7 @@ public class MyCalculator {
 		MyCalculator calc = new MyCalculator();
 		System.out.println("sum is:"+calc.sum(20, 10));
 		System.out.println("diff is:"+calc.diff(20, 10));
-		System.out.println("mult is:"+calc.mult(20, 10));
+		System.out.println("mult is:"+calc.multi(20, 10));
 	}
 
 }
